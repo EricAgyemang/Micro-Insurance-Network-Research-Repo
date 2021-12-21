@@ -4,11 +4,15 @@
 The rate of uptake of microinsurance differs markedly from one country to another, even within a single region. Taking the quantitative approach, multilinear regression, this research
 focuses on
     •	Drawing on the literature available and interviews with subject matter experts, develop a hypothesis for testing the contribution of key variables towards market development
-    •	Collate data from a range of public sources to enable cross-country comparison with respect to demographics, each country’s socio-economic profile, financial inclusion and the   
-      insurance sector itself. This data will also be used to generate the country profiles that are part of the 2020 Landscape Study of Microinsurance (see appendix)
+    
+    •	Collate data from a range of public sources to enable cross-country comparison with respect to demographics, each country’s socio-economic profile, financial inclusion and the 
+      insurance sector itself. This data will also be used to generate the country profiles that are part of the 2020 Landscape Study of Microinsurance (see appendix).
+      
     •	Additional data sources may need to be found to represent proxies for other variables to be included in the hypothesis testing. For example, these may include: growth of 
       microinsurance; economic growth; economic and/or political stability; ease of doing business.
+      
     •	Test the hypothesis through a cross-country comparison
+    
     •	Analyze and present the results
  
 # QUESTION ADDRESSED 
