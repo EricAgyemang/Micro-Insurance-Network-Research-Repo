@@ -15,7 +15,7 @@ multilinear regression, this research focuses on:
  
 # QUESTION ADDRESSED 
     a.	What are the key factors commonly believed to be prerequisites for success in creating a fertile environment for the development
-         of inclusive insurance markets?
+            of inclusive insurance markets?
     b.	Does an evidence-based approach support this?
     c.	What are the implications for policymakers and the private sector wishing to scale up inclusive insurance market development?
 
