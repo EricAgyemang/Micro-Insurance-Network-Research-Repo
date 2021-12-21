@@ -12,7 +12,8 @@ focuses on
     •	Analyze and present the results
  
 # QUESTION ADDRESSED 
-    a.	What are the key factors commonly believed to be prerequisites for success in creating a fertile environment for the development of inclusive insurance markets?
+    a.	What are the key factors commonly believed to be prerequisites for success in creating a fertile environment for the development of inclusive
+    insurance markets?
     b.	Does an evidence-based approach support this?
     c.	What are the implications for policymakers and the private sector wishing to scale up inclusive insurance market development?
 
@@ -27,6 +28,6 @@ The hypothesis used for the study include:
   •	Hypothesis 3: Institutional factors positively affect microinsurance market development and creating fertile environment for microinsurance operation.
 
 
-NOTE: The model, model estimation, and detailed results are discussed in the white paper attached to this repository.
+**NOTE:** The model, model estimation, and detailed results are discussed in the white paper attached to this repository.
 
 
